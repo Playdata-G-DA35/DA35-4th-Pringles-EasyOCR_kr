@@ -1,0 +1,1 @@
+# DA35-4th-Pringles-EasyOCR_kr
