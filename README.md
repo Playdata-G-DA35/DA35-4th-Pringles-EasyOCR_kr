@@ -150,7 +150,8 @@
   └── pre_trained_model # pre-trained 모델
       └── korean_g2.pth
   ```
-- run `NVBC_run.py`
+ [EasyOCR](https://github.com/JaidedAI/EasyOCR) 프로젝트 root에서 run `NVBC_run.py`
+  
 ### 테스트 결과
 **Test Image - 손글씨**
 ![image](reports/image/test.png)
